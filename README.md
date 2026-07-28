@@ -1,15 +1,20 @@
 ## Hi, I'm Susan Muthee
-Data Science postgraduate student at the University of Southern Queensland, building ML models and data pipelines that turn complex data into clear decisions.
 
-I'm currently working on: predictive modelling, unsupervised learning, and big data analytics with PySpark. I'm open to graduate roles in data science and ML engineering across Australia.
+Data Science postgrad at the University of Southern Queensland. I like turning messy 
+data into models that actually explain something.
 
-Featured projects
-→ Depth of Anaesthesia Index using Stacking Ensemble Learning (Pearson r = 0.89)
-→ EEG Clustering with K-means & Agglomerative Hierarchical Clustering
-→ Movie Genre Analysis on 26M ratings using PySpark, SQL & MongoDB
+Currently working on my master's thesis on cross-lingual machine unlearning in LLMs. 
+Past projects span quant trading strategies, portfolio optimization, and big data 
+analytics with PySpark. Open to grad roles in quant finance, data science, or ML 
+engineering across Australia.
 
-Tools
-Python scikit-learn PySpark pandas matplotlib seaborn SQL R MongoDB Google Colab
+**Featured projects**
+→ Statistical arbitrage pairs trading (ASX, cointegration)
+→ Mean-variance portfolio optimization (efficient frontier, SLSQP)
+→ Depth of anaesthesia index using stacking ensemble learning (Pearson r = 0.89)
+→ Movie genre analysis on 26M ratings (PySpark, SQL, MongoDB)
+
+**Tools:** Python, scikit-learn, PySpark, pandas, SQL, MongoDB, R, Google Colab
 <!--
 **SusanMuthee/SusanMuthee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
